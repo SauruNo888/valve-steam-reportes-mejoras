@@ -52,7 +52,3 @@ El proyecto contempla:
 ## Declaración de uso de inteligencia artificial
 
 Se utilizó un asistente de inteligencia artificial como apoyo para organizar la documentación, proponer el flujo del proceso y mejorar la redacción. 
-
-## Estado del proyecto
-
-Proyecto académico en etapa de documentación y planificación.
