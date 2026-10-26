@@ -52,3 +52,9 @@ El proyecto contempla:
 ## Declaración de uso de inteligencia artificial
 
 Se utilizó un asistente de inteligencia artificial como apoyo para organizar la documentación, proponer el flujo del proceso y mejorar la redacción. 
+
+## Metodología de trabajo
+
+El proyecto se organizará mediante tareas documentadas, control de versiones y revisión de los cambios. Las actividades se dividirán en historias de usuario para facilitar su planificación y seguimiento.
+
+Los cambios de documentación se realizarán en ramas secundarias y se propondrán mediante Pull Requests antes de incorporarlos a la rama principal.
