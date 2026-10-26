@@ -52,3 +52,13 @@ El proyecto contempla:
 ## Declaración de uso de inteligencia artificial
 
 Se utilizó un asistente de inteligencia artificial como apoyo para organizar la documentación, proponer el flujo del proceso y mejorar la redacción. 
+
+## Gestión del proyecto
+
+El seguimiento de las historias de usuario se realiza mediante un tablero de GitHub Projects.
+
+Tablero de gestión: https://github.com/users/SauruNo888/projects/1/views/1 
+
+## Repositorio
+
+Repositorio público: https://github.com/SauruNo888/valve-steam-reportes-mejoras 
